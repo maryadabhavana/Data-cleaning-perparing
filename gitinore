@@ -1,0 +1,15 @@
+Data-Cleaning-Preparation/
+│
+├── data/
+│   ├── Dataset for Data Analytics.xlsx
+│   └── cleaned_data.csv
+│
+├── notebooks/
+│   └── Data_Cleaning.ipynb
+│
+├── src/
+│   └── data_cleaning.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
