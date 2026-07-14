@@ -9,7 +9,6 @@ This project demonstrates a complete data cleaning workflow using Python and Pan
 The objective is to transform a raw dataset into a clean, analysis-ready dataset by handling missing values, duplicate records, inconsistent formatting, and invalid data.
 
 ---
-
 ## Dataset
 
 Raw Dataset:
@@ -85,4 +84,3 @@ Export Clean Dataset
 
 ---
 
-## Output
